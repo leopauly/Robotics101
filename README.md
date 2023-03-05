@@ -1,2 +1,2 @@
 # Robotics101
-Simple pick and place example using MoveIt python interface in ROS
+_Pick and place_ example using MoveIt python interface in ROS
